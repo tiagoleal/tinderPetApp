@@ -1,12 +1,6 @@
 <p align="center">
   <a href="#">
-   <img alt="TinderPet" src="https://github.com/tiagoleal/tinderPet/blob/master/public/img/images/logo.png?raw=true" width="200">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tiagoleal/tinderPet">
-    <img alt="Current Version" src="https://img.shields.io/badge/version-1.0.0 -blue.svg">
+   <img alt="TinderPet" src="https://github.com/tiagoleal/tinderPetApp/blob/master/public/img/logo.png?raw=true" width="200">
   </a>
 </p>
 
@@ -14,7 +8,7 @@ This application is a Vue.js app, based on Tinder Layout and funcionality.
 
 ## Screenshot
 
-![](https://github.com/tiagoleal/petGolden/blob/master/public/img/images/tinder.gif?raw=true)
+![](https://github.com/tiagoleal/tinderPetApp/blob/master/public/img/tinder.gif?raw=true)
 
 ## Stack the Project
 
